@@ -6,8 +6,8 @@ This plugin for Flutter handles a native app update without an official applicat
 
 | Feature | Android | iOS | macOS | Linux | Windows |
 |---------|----------|------|--------|--------|--------- |
-| download & update | ✅ 
-| github releases | ✅ 
+| download & update | ✅ | | | | ✅ |
+| github releases | ✅ | | | | ✅ |
 
 # Usage
 

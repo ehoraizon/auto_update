@@ -45,7 +45,7 @@ public class AutoUpdatePlugin implements FlutterPlugin, MethodCallHandler, Activ
   @Override
   public void onMethodCall(@NonNull MethodCall call, @NonNull Result result) {
     switch (call.method) {
-      case "fetchGithubApk":
+      case "fetchGithub":
         fetchGithub(
                 Objects.requireNonNull(call.argument("user")),
                 Objects.requireNonNull(call.argument("packageName")),
