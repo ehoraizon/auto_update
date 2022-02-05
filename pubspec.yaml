@@ -1,6 +1,6 @@
 name: auto_update
 description: This plugin for Flutter handles a native app update without an official application store.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ehoraizon/auto_update
 
 environment:
